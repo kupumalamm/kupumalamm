@@ -2,7 +2,7 @@
   👋 Hi, I’m @kupumalamm
 </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=prompt&size=25&duration=3000&lines=Bwrak+Swkebon+Cuhcur+Muncar+Air+Mancur"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=prompt&size=25&duration=3000&lines=Perayaan+Patah+Hati"></a>
 </p>
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kupumalamm&theme=merko)
