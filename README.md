@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi, I’m @kupumalamm
 </h1>
-<p align="right">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=prompt&size=25&duration=3000&lines=Bwrak+Swkebon"></a>
 </p>
 
